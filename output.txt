@@ -1,2 +1,2 @@
-Enter the value of principal, rate and time
-Simple Interest is: 68
+3
+3.33333
