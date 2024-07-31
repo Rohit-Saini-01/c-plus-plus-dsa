@@ -1,2 +1,2 @@
-Enter an integer followed by your name
-The number you entered is: 10 and your name is: Rohit Saini
+Enter two integers
+Product of entered integers is: 70
