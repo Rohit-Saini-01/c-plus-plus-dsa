@@ -1,2 +1,2 @@
-Enter your three subject marks
-Your average marks are:8.33333
+Enter the side of the square
+Area of the square with side 10 is 100
