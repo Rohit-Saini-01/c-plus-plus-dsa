@@ -1,5 +1,1 @@
-a
-1
-10
-3.14
-3.1415
+Sum of two integers is: 15
