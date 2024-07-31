@@ -1,2 +1,3 @@
-Enter the side of the square
-Area of the square with side 10 is 100
+Enter the cost of pencil, pen and eraser respectively
+Total Bill without gst: 64
+total Bill with gst: 75.52
