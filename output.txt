@@ -1,2 +1,2 @@
-Enter two integers
-Product of entered integers is: 70
+Enter the value of radius
+Area of the circle with radius 10 is: 314
