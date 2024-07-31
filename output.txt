@@ -1,1 +1,2 @@
-Sum of two integers is: 15
+Enter an integer followed by your name
+The number you entered is: 10 and your name is: Rohit Saini
